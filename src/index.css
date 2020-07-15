@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+code {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  background: #1c6c85;
+  padding: 10px;
+}
+
+nav a {
+  display: inline-block;
+  padding: 10px;
+  color:rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 400px;
+
+}
+
+img{
+  max-width: 100%;
+  color:black;
+  box-shadow: 0 0 20px #463636;
+ 
+
+}
+img:hover{
+  max-width:105%;
+  background-color: rgb(167, 159, 159);
+}
+h1{
+  text-decoration: none;
+  color:rgb(19, 16, 16);
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  color:rgb(209, 9, 9);
+}
+.ladies-shoe{
+      color: rgb(187, 17, 17);
+      margin: 10px 0px 10px 450px;
+      text-shadow:2px 2px rgb(196, 179, 179);
+      font-weight: bold;
+}
